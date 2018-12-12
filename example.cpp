@@ -2,8 +2,6 @@
 //  testfile.cpp
 //  DSTI
 //
-//  Created by Marcel Thor Stefansson on 12.11.18.
-//  Copyright © 2018 Marcel Thor Stefansson. All rights reserved.
 //
 
 // #include "testfile.hpp"
