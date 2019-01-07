@@ -20,7 +20,7 @@ int main(int argc, const char * argv[]){
     int attempts = 15;
     
     
-    cout << "The word you are looking for has " << length << " letters. First try: "<< word_length << endl;
+    cout << "The hangman word has " << length << " letters. First try: "<< word_length << endl;
     
     while (attempts > 0){
         if (word_length == word){
